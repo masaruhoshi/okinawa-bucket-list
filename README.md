@@ -6,7 +6,7 @@
 * [Hiking](./hiking.md)
 * [Playgrounds](./playgrounds.md)
 * [Festivals](./festivals.md)
-* [Restaurantes & Cafes](./restaurants.md)
+* [Restaurants & Cafes](./restaurants.md)
 
 ## TIPS for Exploring
 Remember to always carry Yen, some places do take credit card but not all. We always carried bathroom wipes and hand sanitizer as some of the restrooms in these locations did not supply it!
