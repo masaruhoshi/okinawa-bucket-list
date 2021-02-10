@@ -1,5 +1,7 @@
 # Okinawa Bucket List
 
+![Shisa](./images/shisas.jpg)
+
 * [Touristic Places](./tourism.md)
 * [Beaches](./beaches.md)
 * [Islands](./islands.md)
