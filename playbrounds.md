@@ -1,0 +1,91 @@
+# Okinawa Playgrounds
+
+## North
+- [ ] Nago Castle Playground 🌸
+- [ ] Pineapple Playground Eco Park
+- [ ] Fukushi Park
+- [ ] Yuki No Hama Park
+- [ ] Otohadake Park
+- [ ] Mt Yaedake Sakura-no-mori Park
+- [ ] Sunset Square Playground @ Expo Park
+
+## Central
+- [ ] Xystus Kids Land, Child 550¥, Adult 300¥
+- [ ] Yamauchi Park
+- [ ] Akemichi Park
+- [ ] Manta Park
+- [ ] Tobaru Koen Park
+- [ ] Wakamatsu Park
+- [ ] Nishihara Park
+- [ ] Urasoe Dai Park
+- [ ] Nakagusuku Park
+- [ ] Comprehensive Park
+- [ ] Shisa Dog Children's Park
+- [ ] Yaeshima Park 🌸
+- [ ] Machinato Children's Park
+- [ ] Yoshinoura Park
+- [ ] Adan Kid's Treehouse Park
+- [ ] Dragon Slide Park
+- [ ] Kakazu Tadakai Park 🌸
+- [ ] Hiyaragawa Park
+- [ ] Sunabe-baba Park/Beach
+- [ ] Matsuyama Park
+- [ ] Kuwae Park
+- [ ] Koza Sports Park
+- [ ] Toguchi Park/Beach
+- [ ] Kinwu Park
+- [ ] Kin Okawa Springs Park
+- [ ] Miyazato Daiichi Park/Playground
+- [ ] Yara Dai-ni Koen Park
+- [ ] Iha Park Halfbeak Treehouse Park
+- [ ] Citizens Park of Rest
+- [ ] Anpan-Man Playground Park
+- [ ] Yuna Children's Park
+- [ ] Uehara Upland Park
+- [ ] Samashita Park
+- [ ] Lester Hills Park
+- [ ] Kitatama Park
+- [ ] Asunaro Children's Park
+- [ ] Ageda Park
+- [ ] Isunoki Park
+- [ ] Mito Park
+- [ ] TreeHouse Adventure Park
+- [ ] Babatoshi Ryokuchi Park
+- [ ] Misato Park
+- [ ] Kuroshio Park
+- [ ] Kyan Park
+- [ ] Yachonomori Park
+- [ ] Morikawa Park
+- [ ] Boat Playground Uruma
+- [ ] OkaTake Park
+- [ ] Izumisho Park
+- [ ] Iso Park
+- [ ] Nishibaru Park (Pirate Ship Park) Urasoe
+- [ ] Kin Okawa Splash Pad springs
+- [ ] Ginoza Playground and Splash Pad
+- [ ] Chatan Splash Pad 200¥
+- [ ] Wakanatsu Park
+
+## South
+- [ ] Waku Waku Kids Land 350¥-950¥
+- [ ] Gusukurodo Park
+- [ ] Motobu Park
+- [ ] Yogi Park
+- [ ] Comb Miyagi Dinosaur Park
+- [ ] Wakasa Park
+- [ ] Onoyama Athletic Park
+- [ ] Senaga Crab Park
+- [ ] Bibi Park & Beach
+- [ ] Umi-no Furusato Park
+- [ ] Peace Memorial Park Children's & Shin'oyake Infant's and Big Kid Playground
+- [ ] Kaigungo Park
+- [ ] Toyosaki Rainbow Park
+- [ ] Nishizaki Sports Park
+- [ ] 4 Go London Mori Park
+- [ ] Miyagusuku Park
+- [ ] Higashihama Shisa Park
+- [ ] Agarihama Kyouryuu Park
+- [ ] Ozato Park
+- [ ] Kanegusuku Park
+- [ ] Kamizato Park
+- [ ] Kyouryuu Park
