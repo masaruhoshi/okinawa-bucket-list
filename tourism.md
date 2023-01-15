@@ -105,8 +105,8 @@
 - [ ] Hija River Kayak/SUP
 
 ## South
-- [ ] Kokusai Street Naha
-- [ ] Fukushuen Garden, Adult 200¥, Child 100¥
+- [x] Kokusai Street Naha
+- [x] Fukushuen Garden, Adult 200¥, Child 100¥
 - [ ] Tomori Stone Lion
 - [ ] Naminoue Shrine
 - [ ] Gokoku-ji Temple
@@ -116,10 +116,10 @@
 - [ ] Cape Kyan
 - [ ] Uchina Farm Itoman Illuminations, Adult 500¥, Child 400¥
 - [ ] Japanese Navy Underground HQ, Adult 420¥, Child 210¥
-- [ ] Shuri Castle, Adult 820¥, H.S 660¥, J.H & Elementary 310¥
+- [x] Shuri Castle, Adult 820¥, H.S 660¥, J.H & Elementary 310¥
 - [ ] Okinawa World, Adult 1600¥, Child 800¥
-- [ ] Makishi Public Market off Kokusai St.
-- [ ] Peace Prayer Park Museum 300¥
+- [x] Makishi Public Market off Kokusai St.
+- [x] Peace Prayer Park Museum 300¥
 - [ ] Southern Hills Ice Skating, Adult 1700¥, Child1100¥ - 1500¥
 - [ ] MariCar Go-Karts 6,000¥ (must have Sofa License or international license)
 - [ ] Tamagusuku Ruins

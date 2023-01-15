@@ -1,5 +1,5 @@
 # Restaurants and Cafes
-***There are many restaurants and cafes on the island, these are just some of the popular ones for either their delicious food, spectacular views, or unique dining experience!
+***There are many restaurants and cafes on the island, these are just some of the popular ones for either their delicious food, spectacular views, or unique dining experience!***
 
 ## North
 - [ ] Anettaichaya Hammock Cafe

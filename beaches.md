@@ -1,6 +1,6 @@
 # Beaches
 ***Some beaches are netted, and some will make you wear a vest while snorkeling inside the net. For snorkeling, diving, surfing, etc. you can check tide levels, wave & surf conditions at:
-https://tides4fishing.com/jp/okinawa/okinawa#_tides
+https://tides4fishing.com/jp/okinawa/okinawa#_tides***
 
 ## North
 - [ ] Kayo Beach
@@ -43,7 +43,7 @@ https://tides4fishing.com/jp/okinawa/okinawa#_tides
 - [ ] Malibu Beach
 
 ## South
-- [ ] Naminoue Beach
+- [x] Naminoue Beach
 - [ ] Kitanashiro Beach
 - [ ] Bibi Beach & Park
 - [ ] Odo Beach Aka John Man Beach🤿🐠
